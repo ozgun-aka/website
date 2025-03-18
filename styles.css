@@ -1,6 +1,6 @@
 .highlight {
   font-size: 20px;
-  color: rgb(161, 143, 255);
+  color: rgb(187, 177, 235);
   font-weight: bold;
   text-decoration: underline;
   position: relative;
@@ -42,7 +42,7 @@
 }
 
 button {
-  background-color: rgb(88, 0, 170);
+  background-color: rgb(187, 132, 238);
   border: dashed 1px rgb(92, 64, 248);
   padding: 10px 15px;
   margin-top: 50px;
